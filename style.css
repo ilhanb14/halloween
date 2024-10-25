@@ -67,9 +67,6 @@ body {
     box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.15);
 }
 
-.header-section {
-    background-color: #f8f9fa;
-}
 
 /* Flexbox for equal height */
 .row.g-0 {
