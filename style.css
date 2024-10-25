@@ -27,4 +27,49 @@ body {
 }
 .highlight {
     color: #ff7518;
+.logo {
+    width: 150px;
+}
+
+.contact-info {
+    background-color: #2d3748;
+    color: white;
+    height: 100%;
+}
+
+.contact-form {
+    background-color: rgba(255, 255, 255, 0.8);
+    height: 100%; /* Make contact form take full height */
+}
+
+.info-item {
+    margin-bottom: 2rem;
+}
+
+.social-links a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.1);
+    transition: background-color 0.3s ease;
+    margin-right: 0.5rem;
+}
+
+.social-links a:hover {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.15);
+}
+
+.header-section {
+    background-color: #f8f9fa;
+}
+
+/* Flexbox for equal height */
+.row.g-0 {
+    display: flex;
 }
