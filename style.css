@@ -2,6 +2,7 @@ body {
     background-color: #0c0c0c;
     color: #fff;
     font-family: Arial, sans-serif;
+    padding: 200px;
 }
 .header {
     background-image: url('bgabout.jpg');
@@ -72,3 +73,4 @@ body {
 .row.g-0 {
     display: flex;
 }
+
