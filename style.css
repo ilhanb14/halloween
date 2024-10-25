@@ -11,22 +11,27 @@ body {
 
 .Mform {
     margin-top: 50px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-    background-color: rgba(255, 255, 255, 0.11);
+    box-shadow: 0 3px 10px rgba(255, 255, 255, 0.733);
+    background-color: rgba(255, 255, 255, 0.123);
     border-radius: 15px;
+    padding: 30px;
 }
 .hometitle {
-    margin: 20px 0 20px;
+    margin: 40px 0 20px;
 }
 .card{
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 3px 10px rgba(255, 255, 255, 0.76);
 }
 .btn{
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 3px 10px rgba(255, 255, 255, 0.829);
+    color: white;
+}
+.btn-check{
+    color: white;
 }
 .findmore{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .findmore:hover{
     color: #7700ff;
